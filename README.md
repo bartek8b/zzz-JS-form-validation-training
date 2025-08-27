@@ -8,4 +8,5 @@ Basic form that checks:
 - Email validity
 - Postal code's pattern based on the chosen country
 - Password pattern
-- Don't even allow repeating password until the password is stong enough
+
+- Don't even allow repeating password until the chosen password is strong enough
