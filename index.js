@@ -143,4 +143,5 @@ function clearForm() {
 	postalCode.value = "";
 	password.value = "";
 	passwordRepeat.value = "";
+	passwordRepeat.setAttribute("disabled", "");
 }
